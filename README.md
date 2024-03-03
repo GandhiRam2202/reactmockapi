@@ -1,8 +1,16 @@
-# React + Vite
+# React CRUD Application with Mock API [Netlify](https://grpreactmockapi.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application demonstrating CRUD (Create, Read, Update, Delete) operations using a mock API. The mock API is simulated using JSONPlaceholder, which provides fake REST API for testing and prototyping.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before running the application, ensure you have the following installed:
+
+- Node.js and npm (Node Package Manager)
+- Git (for cloning the repository)
+
+## Installation
+
+1. Clone the repository to your local machine using Git:
+
+
