@@ -49,7 +49,7 @@ const students = ({setId}) => {
                 <th scope="row">{item.id}</th>
                 <td>{item.name}</td>
                 <td>{item.mail}</td>
-                <td>{item.empid}</td>
+                <td>{item.blood}</td>
                 <td>{item.phone}</td>
                 <td>
                   <button className='btnUpdate' onClick={()=>{handleEdit(item.id)}}>Update</button>
