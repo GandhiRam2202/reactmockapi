@@ -9,7 +9,7 @@ const Edit = ({ id }) => {
         phone: '',
         mail: '',
         address: '',
-        empid: ''
+        blood: ''
     });
     
 
@@ -61,8 +61,8 @@ const Edit = ({ id }) => {
             <input type="text" name='phone' value={editData.phone} className="form-control" id="htmlFor" onChange={handleChange} required/>
           </div>
           <div className="col-md-6">
-            <label className="form-label fw-bolder">Batch ID</label>
-            <input type="text" name='empid' value={editData.empid} className="form-control" id="htmlFor" onChange={handleChange} required/>
+            <label className="form-label fw-bolder">Blood</label>
+            <input type="text" name='blood' value={editData.blood} className="form-control" id="htmlFor" onChange={handleChange} required/>
           </div>
           <div className="col-md-6">
             <label className="form-label fw-bolder">Address</label>
