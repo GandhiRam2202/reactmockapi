@@ -42,7 +42,7 @@ const Create = () => {
           </div>
           <div className="col-md-6">
             <label className="form-label fw-bolder">Blood</label>
-            <input type="text" name='empid' value={editData.blood
+            <input type="text" name='blood' value={editData.blood
             } className="form-control" id="htmlFor" onChange={handleChange} required/>
           </div>
           <div className="col-md-6">
