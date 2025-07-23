@@ -12,7 +12,7 @@ const Card = ({item}) => {
              Name : {item.name}
             </div>
             <div className='col-12 fw-bolder text-center'>
-             Batch Id : {item.empid}
+             Blood : {item.blood}
             </div>
             <div className='col-12 fw-bolder text-center'>
             Mail : {item.mail}
