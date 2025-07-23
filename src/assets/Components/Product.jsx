@@ -37,7 +37,7 @@ const students = ({setId}) => {
               <th scope="col">S.No</th>
               <th scope="col">Name</th>
               <th scope="col">Email</th>
-              <th scope="col">Batch Id</th>
+              <th scope="col">Blood</th>
               <th scope="col">Phone</th>
               <th scope="col">Edit</th>
               <th scope="col">Delete</th>
